@@ -32,3 +32,13 @@ https://rfkifdlh.github.io/CSS-Dasar/PRICETABLE/index.html
 
 # Belajar Bootstrap
 
+https://rfkifdlh.github.io/GETBOOTSTRAP/index.html
+
+- Museum
+
+https://rfkifdlh.github.io/GETBOOTSTRAP/museum/index.html
+
+# Belajar JavaScript
+
+https://rfkifdlh.github.io/JavaScript/index.html
+
