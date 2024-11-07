@@ -6,3 +6,4 @@ https://rfkifdlh.github.io/HTML/form.html
 
 https://rfkifdlh.github.io/HTML/about.html
 
+https://rfkifdlh.github.io/HTML/table.html
