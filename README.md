@@ -45,3 +45,7 @@ https://rfkifdlh.github.io/JavaScript/index.html
 # Belajar JavaScript-oop
 
 https://rfkifdlh.github.io/oop/oop.html
+
+# Belajar JavaScript-Async
+
+https://rfkifdlh.github.io/js-asynchronous/async.html
